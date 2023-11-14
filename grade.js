@@ -7,5 +7,5 @@ if(grade>=60){
     console.log('You are passed');
 }
 else{
-    console.log('You are not eligible for voting');
+    console.log('You are failed');
 }
